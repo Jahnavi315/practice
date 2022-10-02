@@ -74,7 +74,7 @@ body{
     border: 2px solid purple;
     margin: 5px;   
 }
-@media(max-width:600px){
+@media(max-width:900px){
     .gridcontainer{
         display: block;
     }
